@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/cudaMAt/helloCudaWorld.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="27" lean-forward="true" selection-end-line="57" />
+              <caret line="27" selection-end-line="57" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -183,7 +183,7 @@
     <entry file="file://$PROJECT_DIR$/cudaMAt/helloCudaWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="27" lean-forward="true" selection-end-line="57" />
+          <caret line="27" selection-end-line="57" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
